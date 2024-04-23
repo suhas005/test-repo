@@ -1,0 +1,4 @@
+create user test identified by
+"test_123"
+profile default
+tablespace test;
